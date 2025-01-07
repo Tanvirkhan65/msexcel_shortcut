@@ -1,2 +1,3 @@
 # msexcel_shortcut
 ctrl + -> KEY FOR SEE THE LAST COLUMN
+CTRL + DOWN ARROW TO SEE FULL LAST ROW
