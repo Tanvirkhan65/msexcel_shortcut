@@ -11,4 +11,8 @@ ctrl + s direct save
 
 f12 save as
 
+ctrl + w close work book
+
+f12 then tools general password settings
+
 
