@@ -19,7 +19,7 @@ sheet content protection right click on sheet protect sheet set password
 
 ctrl + z undo and ctrl + y redo 
 
-INSER COLUMN CTRL+SHIFT+EQUAL BUTTON
+INSER COLUMN CTRL+SHIFT+EQUAL BUTTON delete column and row ctrl + minus button
 
 CTRL+SHIFT+RIGHT ARROW SELECT ALL CONTENT RIGHT ROW
 
