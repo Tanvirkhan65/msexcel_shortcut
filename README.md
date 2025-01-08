@@ -19,4 +19,5 @@ sheet content protection right click on sheet protect sheet set password
 
 ctrl + z undo and ctrl + y redo 
 
+INSER COLUMN CTRL+SHIFT+EQUAL BUTTON
 
