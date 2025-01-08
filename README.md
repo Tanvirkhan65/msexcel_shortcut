@@ -15,4 +15,7 @@ ctrl + w close work book
 
 f12 then tools general password settings
 
+sheet content protection right click on sheet protect sheet set password 
+ctrl + z undo and ctrl + y redo 
+
 
