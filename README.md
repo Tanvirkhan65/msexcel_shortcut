@@ -33,3 +33,5 @@ ctrl + g then special for cleaning blank row
 
 trim and len for text trim and length identify
 
+substitute function inside char(160) for remove unbreakable space inside and outside text
+
