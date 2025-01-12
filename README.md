@@ -33,6 +33,8 @@ ctrl + g then special for cleaning blank row
 
 trim and len for text trim and length identify
 
+flash fill ctrl + E
+
 substitute function inside char(160) for remove unbreakable space inside and outside text
 
 proper function text like this  Tanvir Khan
