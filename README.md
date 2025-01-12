@@ -37,3 +37,5 @@ substitute function inside char(160) for remove unbreakable space inside and out
 
 proper function text like this  Tanvir Khan
 
+if for condition apply
+
