@@ -29,3 +29,5 @@ CTRL+SHIFT+DOWN ARROW SELECT ALL CONTENT DOWN COLUMN
 
 ctrl+r ctrl+d random number function automatic fill
 
+ctrl + g then special for cleaning blank row 
+
