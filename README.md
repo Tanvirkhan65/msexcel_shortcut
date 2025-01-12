@@ -41,3 +41,4 @@ proper function text like this  Tanvir Khan
 
 if for condition apply
 
+left formula dynamic flash-fill
