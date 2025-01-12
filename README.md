@@ -31,3 +31,5 @@ ctrl+r ctrl+d random number function automatic fill
 
 ctrl + g then special for cleaning blank row 
 
+trim and len for text trim and length identify
+
