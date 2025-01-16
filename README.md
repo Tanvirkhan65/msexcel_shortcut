@@ -1,55 +1,45 @@
-# msexcel_shortcut
-ctrl + -> KEY FOR SEE THE LAST COLUMN 
-
-CTRL + DOWN ARROW TO SEE FULL LAST ROW
-
-shift + up arrow 1 column up down i row right left
-
-C3:G9 LIKE THIS SELECT RANGE OF EXCEL ROW COLUMN
-
-SHIFT + F11 NEW SHEET
-
-ctrl + s direct save 
-
-f12 save as
-
-ctrl + w close work book
-
-f12 then tools general password settings
-
-sheet content protection right click on sheet protect sheet set password 
-
-ctrl + z undo and ctrl + y redo 
-
-INSER COLUMN CTRL+SHIFT+EQUAL BUTTON delete column and row ctrl + minus button
-
-CTRL+SHIFT+RIGHT ARROW SELECT ALL CONTENT RIGHT ROW
-
-CTRL+SHIFT+DOWN ARROW SELECT ALL CONTENT DOWN COLUMN
-
-ctrl+r ctrl+d random number function automatic fill
-
-ctrl + g then special for cleaning blank row 
-
-trim and len for text trim and length identify
-
-flash fill ctrl + E
-
-substitute function inside char(160) for remove unbreakable space inside and outside text
-
-proper function text like this  Tanvir Khan
-
-if for condition apply
-
-left formula dynamic flash-fill from left, right formula from right
-
-same column multiple condition nested ifs can use =IFS()
-
-MULTIPLE COLUMN USE IF(AND())  IF(OR()) LIKE THIS
-
-sort and filter we can apply custom sort and filter according to perticular product wise sort ribbon option
-
-sort(),filter(),take()
-
-
-
+কীবোর্ড শর্টকাটস
+ন্যাভিগেশন
+Ctrl + →: কার্সরকে বর্তমান সারির শেষ কলামে নিয়ে যায়।
+Ctrl + ↓: কার্সরকে বর্তমান কলামের শেষ সারিতে নিয়ে যায়।
+Shift + ↑/↓/←/→: এক সারি বা কলাম ওপরে, নিচে, ডানে বা বামে সিলেক্ট করে।
+রেঞ্জ সিলেকশন
+C3:G9: নির্দিষ্ট রেঞ্জ (সারি ও কলাম) সিলেক্ট করতে সরাসরি টাইপ করুন বা ড্রাগ করুন।
+Ctrl + Shift + →: ডানদিকে থাকা সব ডেটা সিলেক্ট করে।
+Ctrl + Shift + ↓: নিচে থাকা সব ডেটা সিলেক্ট করে।
+শিট ব্যবস্থাপনা
+Shift + F11: নতুন শিট যোগ করে।
+ডান ক্লিক → Protect Sheet: শিটের কন্টেন্ট প্রটেক্ট করার জন্য পাসওয়ার্ড সেট করতে ব্যবহার হয়।
+সেভ এবং ক্লোজ
+Ctrl + S: ফাইল সংরক্ষণ করে।
+F12: সেভ অ্যাজ অপশন খুলে।
+Ctrl + W: ফাইল বন্ধ করে।
+এডিটিং
+Ctrl + Z: পূর্বের কাজ পূর্বাবস্থায় ফেরায় (Undo)।
+Ctrl + Y: পূর্বের কাজ পুনরায় করে (Redo)।
+Ctrl + Shift + =: নতুন কলাম যোগ করে।
+Ctrl + -: সারি বা কলাম ডিলিট করে।
+বিশেষ ফিচারস
+Ctrl + E: Flash Fill চালু করে, যা ডেটা প্যাটার্ন অনুযায়ী পূরণ করে।
+Ctrl + G → Special: ব্ল্যাংক সারি নির্বাচন এবং পরিষ্কার করতে সাহায্য করে।
+এক্সেল ফাংশন ও ফিচারস
+টেক্সট ফাংশনস
+TRIM(): অতিরিক্ত স্পেস দূর করে।
+LEN(): একটি টেক্সট স্ট্রিং-এর মোট ক্যারেক্টারের সংখ্যা গণনা করে।
+PROPER(): টেক্সটের প্রতিটি শব্দের প্রথম অক্ষর বড় করে (যেমন =PROPER("tanvir khan") → Tanvir Khan)।
+SUBSTITUTE() সাথে CHAR(160): টেক্সটের ভেতর ও বাইরের অবিচ্ছেদ্য স্পেস মুছে ফেলে।
+শর্তযুক্ত ফাংশনস
+IF(): শর্ত প্রয়োগ করে (যেমন, =IF(A1>10, "Pass", "Fail"))।
+IFS(): একাধিক শর্ত চেক করে (যেমন, =IFS(A1>90, "A+", A1>80, "A", A1>70, "B"))।
+IF(AND()): একাধিক শর্ত একসাথে চেক করে (যেমন, =IF(AND(A1>10, B1<20), "Yes", "No"))।
+IF(OR()): একাধিক শর্তের যেকোনো একটি চেক করে (যেমন, =IF(OR(A1>10, B1<5), "Yes", "No"))।
+ডাইনামিক ডেটা হ্যান্ডলিং
+LEFT(): টেক্সটের শুরু থেকে নির্দিষ্ট সংখ্যক ক্যারেক্টার বের করে।
+RIGHT(): টেক্সটের শেষ থেকে নির্দিষ্ট সংখ্যক ক্যারেক্টার বের করে।
+ডেটা ক্লিনিং এবং রূপান্তর
+Sort এবং Filter: নির্দিষ্ট কলামের ডেটা সাজানো এবং ফিল্টার করার জন্য।
+SORT(), FILTER(), TAKE(): ডায়নামিকভাবে ডেটা সাজানো, ফিল্টার বা নির্দিষ্ট রেঞ্জ বের করতে।
+ডেটা ফিলিং
+Ctrl + R: ডেটা ডানে পূরণ করে।
+Ctrl + D: ডেটা নিচে পূরণ করে।
+RANDBETWEEN(): র‍্যান্ডম নাম্বার জেনারেট করে (যেমন, =RANDBETWEEN(1, 100) ১ থেকে ১০০-এর মধ্যে)।
