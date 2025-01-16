@@ -41,11 +41,15 @@ proper function text like this  Tanvir Khan
 
 if for condition apply
 
-left formula dynamic flash-fill,right formula
+left formula dynamic flash-fill from left, right formula from right
 
 same column multiple condition nested ifs can use =IFS()
 
-MULTIPLE COLUMN USE IF(AND()) LIKE THIS
+MULTIPLE COLUMN USE IF(AND())  IF(OR()) LIKE THIS
 
-sort and filter we can apply custom sort and filter according to perticular product wise sort
+sort and filter we can apply custom sort and filter according to perticular product wise sort ribbon option
+
+sort(),filter(),take()
+
+
 
