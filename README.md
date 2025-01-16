@@ -47,3 +47,5 @@ same column multiple condition nested ifs can use =IFS()
 
 MULTIPLE COLUMN USE IF(AND()) LIKE THIS
 
+sort and filter
+
