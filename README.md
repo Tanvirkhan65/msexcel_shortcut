@@ -47,5 +47,5 @@ same column multiple condition nested ifs can use =IFS()
 
 MULTIPLE COLUMN USE IF(AND()) LIKE THIS
 
-sort and filter
+sort and filter we can apply custom sort and filter according to perticular product wise sort
 
