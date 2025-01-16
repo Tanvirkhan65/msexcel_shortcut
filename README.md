@@ -42,3 +42,8 @@ proper function text like this  Tanvir Khan
 if for condition apply
 
 left formula dynamic flash-fill,right formula
+
+same column multiple condition nested ifs can use =IFS()
+
+MULTIPLE COLUMN USE IF(AND()) LIKE THIS
+
